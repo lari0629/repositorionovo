@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     inteiro opc = 0
     real valortot=0.0, quant=0.0
-    escreva ("Seja bem vindo a lanchonete da Larissa \n\n\n ")
+    escreva ("Seja bem vindo a lanchonete da Larissa v2 \n\n\n ")
 
     faca{
       
